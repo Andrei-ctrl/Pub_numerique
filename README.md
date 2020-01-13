@@ -8,4 +8,5 @@ Car je n'ai pas beaucoup d'experience en programmation, j'ai utilisé surtout CS
 
 D'ailleurs, il y a aussi des effets sonores quand quelque chose se passe brusquement. 
 
+Le code a été testé dans le navigateur. Dans Mozila Firefox tout marche très bien. Par contre dans le Google Chrome certains effets audios ne jouent pas.
 J'ai voulu aussi ajouter un deuxiéme personnage pour jouer ainsi que le système d'amélioration du niveaux d'accès du clé. Mais cela me prendra plus du temps. 
